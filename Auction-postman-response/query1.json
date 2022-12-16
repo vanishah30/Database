@@ -1,0 +1,22 @@
+[
+  {
+    "SUBSTRING(Description,1,20)": "sony xperia 5, 2020 ",
+    "id": 5,
+    "name": "Mobile"
+  },
+  {
+    "SUBSTRING(Description,1,20)": "Dell brand latest mo",
+    "id": 6,
+    "name": "laptop"
+  },
+  {
+    "SUBSTRING(Description,1,20)": "JBL Soundbar 5.1, ex",
+    "id": 7,
+    "name": "Soundbar"
+  },
+  {
+    "SUBSTRING(Description,1,20)": "Iphone 13, never use",
+    "id": 8,
+    "name": "Mobile"
+  }
+]

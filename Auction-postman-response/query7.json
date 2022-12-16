@@ -1,0 +1,42 @@
+[
+  {
+    "description": "sony xperia 5, 2020 model, 128 GB memory",
+    "end_time": "Wed, 07 Dec 2022 15:30:00 GMT",
+    "id": 5,
+    "name": "Mobile",
+    "price": 1300,
+    "start_time": "Tue, 06 Dec 2022 13:15:00 GMT"
+  },
+  {
+    "description": "Dell brand latest model year 2021",
+    "end_time": "Thu, 10 Nov 2022 00:00:00 GMT",
+    "id": 6,
+    "name": "laptop",
+    "price": 1300,
+    "start_time": "Thu, 06 Oct 2022 00:00:00 GMT"
+  },
+  {
+    "description": "JBL Soundbar 5.1, excellent condition ,rarely used",
+    "end_time": "Thu, 10 Nov 2022 15:00:00 GMT",
+    "id": 7,
+    "name": "Soundbar",
+    "price": 1300,
+    "start_time": "Thu, 06 Oct 2022 09:00:00 GMT"
+  },
+  {
+    "description": "Iphone 13, never used ,with box and receipt",
+    "end_time": "Mon, 14 Nov 2022 17:00:00 GMT",
+    "id": 8,
+    "name": "Mobile",
+    "price": 1300,
+    "start_time": "Fri, 12 Aug 2022 10:00:00 GMT"
+  },
+  {
+    "description": "Brand new sony headphone with bluetooth",
+    "end_time": "Tue, 22 Nov 2022 00:00:00 GMT",
+    "id": 9,
+    "name": "Headphone",
+    "price": 1300,
+    "start_time": "Wed, 03 Aug 2022 00:00:00 GMT"
+  }
+]

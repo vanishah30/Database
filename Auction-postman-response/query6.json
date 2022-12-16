@@ -1,0 +1,32 @@
+[
+  {
+    "end_time": "Wed, 07 Dec 2022 15:30:00 GMT",
+    "id": 5,
+    "price": 1300,
+    "start_time": "Tue, 06 Dec 2022 13:15:00 GMT"
+  },
+  {
+    "end_time": "Thu, 10 Nov 2022 00:00:00 GMT",
+    "id": 6,
+    "price": 1300,
+    "start_time": "Thu, 06 Oct 2022 00:00:00 GMT"
+  },
+  {
+    "end_time": "Thu, 10 Nov 2022 15:00:00 GMT",
+    "id": 7,
+    "price": 1300,
+    "start_time": "Thu, 06 Oct 2022 09:00:00 GMT"
+  },
+  {
+    "end_time": "Mon, 14 Nov 2022 17:00:00 GMT",
+    "id": 8,
+    "price": 1300,
+    "start_time": "Fri, 12 Aug 2022 10:00:00 GMT"
+  },
+  {
+    "end_time": "Tue, 22 Nov 2022 00:00:00 GMT",
+    "id": 9,
+    "price": 1300,
+    "start_time": "Wed, 03 Aug 2022 00:00:00 GMT"
+  }
+]
